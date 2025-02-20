@@ -140,8 +140,7 @@ MEDIA_ROOT= BASE_DIR / "media"
 
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST='smtp.gmail.com'
-EMAIL_HOST_USER='delali.abdallah@gmail.com'
-EMAIL_HOST_PASSWORD='yval uutw wjxb zuza'
+
 EMAIL_USE_TLS=True
 EMAIL_PORT='587'
 
